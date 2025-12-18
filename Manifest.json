@@ -1,0 +1,15 @@
+{
+  "name": "Holdfast",
+  "short_name": "Holdfast",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B2C4D",
+  "theme_color": "#0B2C4D",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
